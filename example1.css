@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #111111;
+  background-color: #fdfdfd;}
+
+a {
+  color: #f89406;
+  text-decoration: none; }
+  a:visited {
+    color: #fdd49a; }
+  a:hover {
+    color: #945904;
+    text-decoration: underline; }
+
